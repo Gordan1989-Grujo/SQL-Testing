@@ -19,6 +19,22 @@ This repository contains SQL queries used for database validation during softwar
 - SQL Validation
 - Data Verification
 
+- ## Folder Structure
+
+SQL-Testing/
+
+├── Basic Queries
+
+├── Joins
+
+├── CRUD Operations
+
+├── Database Validation
+
+└── README.md
+
+
+
 ## Author
 
 **Gordan Grujić**
